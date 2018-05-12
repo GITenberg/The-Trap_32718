@@ -1,0 +1,31 @@
+_repo: The-Trap_32718
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32718-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Curtis, Betsy
+    aliases:
+    - Curtis, B.
+    - Curtis, Elizabeth M.
+    birthdate: 1917
+    deathdate: 2002
+    gutenberg_agent_id: '36000'
+    url: http://www.gutenberg.org/2009/agents/36000
+description: ''
+gutenberg_issued: '2010-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Rejuvenation -- Fiction'
+title: The Trap
+url: http://www.gutenberg.org/ebooks/32718
